@@ -11,5 +11,5 @@ The dataset contains some basic information of the ranked institutions: world ra
   
 Firstly, to understand how many institutions are there in the dataset, we plot the distinct number of universities in the dataset. We can see clearly that the number of universities in the USA is more than twice the number of China and all the rest of the world.
  
-![Image of pic]
+![Image of whatever]
 (https://github.com/jenshou/dataviz_world_education_ranking/blob/master/plots/1_num_universities_across_the_world.PNG)
